@@ -1,2 +1,2 @@
 # Game-of-15
-Console game
+Java course Programming Assignment
